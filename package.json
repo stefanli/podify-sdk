@@ -1,6 +1,6 @@
 {
   "name": "podify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Podify API",
   "author": "Podify <>",
   "types": "dist/index.d.ts",
